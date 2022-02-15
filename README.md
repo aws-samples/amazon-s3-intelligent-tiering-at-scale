@@ -1,4 +1,4 @@
-## My Project
+## Easily enable S3 Intelligent-Tiering on Amazon S3 buckets at scale
 
 TODO: Fill this README out!
 
